@@ -2,4 +2,4 @@
 <h2> Please subscribe to K21 Academy Channel https://www.youtube.com/user/k21technologies </h2>
 <h2> thanks for following us on https://k21academy.com/my-courses/</h2>
 <h1> THIS IS THE DEMO OF JENKINS WITH GITHUB AND TOMCAT SERVER IN THIS PARTICULAR DEMO</h1>
-<h2> TODAYS DATE IS 07-JAN-2025 </h2>
+<h2> TODAYS DATE IS 07-JAN-2025 08:53 </h2>
